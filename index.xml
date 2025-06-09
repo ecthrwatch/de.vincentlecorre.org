@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Vincent Le Corre</title>
+        <link>https://de.vincentlecorre.org/</link>
+        <description>Persönliche Website von Vincent Le Corre</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language>
+            <atom:link href="https://de.vincentlecorre.org/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
